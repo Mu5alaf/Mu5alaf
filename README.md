@@ -8,7 +8,7 @@ I’ve been learning to code and still love learning!
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [muhammadkhalaf195@gmail.com](mailto:muhammadkhalaf195@gmail.com)
-* 🧠  I'm learning Django, Rest
+* 🧠  I'm learning Django, Rest framework Django
 
 ### Skills
 
