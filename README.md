@@ -25,7 +25,12 @@ I’ve been learning to code and still love learning!
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mu5alaf&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mu5alaf&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu5alaf&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="http://www.github.com/Mu5alaf"><img src="https://github-readme-stats.vercel.app/api?username=Mu5alaf&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="Mu5alaf's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=Mu5alaf&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
