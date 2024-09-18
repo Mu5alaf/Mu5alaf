@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋, I'm Muhammad Khalaf<br>| Backend Developer |</h2>
 
 ###
-
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/2f/76/2b/2f762b4a98dd4ba80c068484d37b5e00.gif"  />
 </div>
-
 ###
 
 <div align="center">
