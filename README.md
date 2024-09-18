@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/lH7o85McEYkAAAAC/khabib-god.gif"  />
+  <img height="300" src="https://c.tenor.com/j-aCffXYuPYAAAAC/tenor.gif"  />
 </div>
 ###
 <div align="center">
