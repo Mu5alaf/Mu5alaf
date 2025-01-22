@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mu5alaf&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mu5alaf&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
