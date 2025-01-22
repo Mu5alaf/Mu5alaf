@@ -28,7 +28,7 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mu5ala=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mu5alaf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
